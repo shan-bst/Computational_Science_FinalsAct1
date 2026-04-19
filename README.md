@@ -1,8 +1,6 @@
 # Computational_Science_FinalsAct1
 # Numerical Methods Case Studies
 
-This repository contains various analyses using numerical methods, including differentiation and integration, to solve real-world problems.
-
 ## Case 1: Population Growth Analysis
 This study analyzes local government population trends using numerical methods because only discrete yearly data was available. We applied the Central Difference formula to estimate annual growth rates and the Trapezoidal Rule to determine the total cumulative population over the 2020–2024 period, resulting in 48,300 person-years.
 
